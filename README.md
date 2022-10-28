@@ -23,6 +23,12 @@ Below is a screenshot of Service Worker successfully registered for the applicat
 Below is a screenshot of Manifest successfully able to be installed to local machine:
 ![alt text](./client/src/images/manifest.png)
 
+Below is a screenshot of Install button working properly:
+![alt text](./client/src/images/install.png)
+
+Below is a screenshot of user input being stored into IndexedDB:
+![alt text](./client/src/images/storage.png)
+
 ## License
 
 Refer to the license file.
